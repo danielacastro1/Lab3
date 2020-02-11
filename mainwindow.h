@@ -48,7 +48,6 @@ private slots:
 
     void on_callPushButton_clicked();
 
-    //void on_pushButton_10_clicked();
 
 
 private:
